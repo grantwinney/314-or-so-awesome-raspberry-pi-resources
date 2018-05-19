@@ -8,6 +8,48 @@ This was originally a [blog post](https://grantwinney.com/314-awesome-raspberry-
 
 <img src="https://grantwinney.com/content/images/2018/03/raspberry-cake-276800.jpg" width=500>
 
+## Table of Contents
+
+*   [Getting Started](#getting-started)
+*   [Operating Systems](#operating-systems)
+*   [Scratch](#scratch)
+*   [Python](#python)
+    *   [Coding with the IDLE](#coding-with-the-idle)
+    *   [Coding Online](#coding-online)
+    *   [Coding with IDEs](#coding-with-ides)
+        *   [Mocking GPIO Pins](#mocking-gpio-pins)
+    *   [Python Tutorials](#python-tutorials)
+    *   [Python MOOCs (free online classes)](#python-moocs-free-online-classes)
+*   [Tutorials](#tutorials)
+    *   [Beginner](#beginner)
+    *   [Even More](#even-more)
+    *   [YouTube](#youtube)
+    *   [Other Languages](#other-languages)
+        *   [C](#c)
+        *   [C#, C++, Visual Basic (UWP Apps)](#c-c-visual-basic-uwp-apps)
+        *   [C++](#c-1)
+        *   [Go / GoLang](#go--golang)
+        *   [Java](#java)
+        *   [PHP](#php)
+*   [Stores](#stores)
+*   [Blogs / Magazines / Ezines](#blogs--magazines--ezines)
+*   [Contests / Events](#contests--events)
+*   [Software](#software)
+*   [Hardware](#hardware)
+    *   [Robotics](#robotics)
+*   [Social Media](#social-media)
+    *   [Twitter](#twitter)
+    *   [Facebook](#facebook)
+    *   [Pinterest](#pinterest)
+*   [Educational Resources](#educational-resources)
+*   [Electronics Fundamentals](#electronics-fundamentals)
+*   [Reference Guides / Help](#reference-guides--help)
+*   [Books](#books)
+*   [Interfacing with Arduino](#interfacing-with-arduino)
+*   [A List of Lists](#a-list-of-lists)
+*   [Pi Day](#pi-day)
+*   [What are your resources?](#what-are-your-resources)
+
 ## Getting Started
 
 If you're brand new to the world of the Raspberry Pi, you might wonder what the heck it is and what you can do with it. Let's start at the start.
