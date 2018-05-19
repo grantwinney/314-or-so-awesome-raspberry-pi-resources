@@ -907,8 +907,6 @@ More activities! In case all of the above didn't float your boat.
 
 ## What are your resources?
 
-Do you have any favorite Raspberry Pi resources? Would you mind sharing them below? I'm always looking for something else that makes creating with the Raspberry Pi easier or more interesting, and I'm sure lots of other people feel the same way. Thanks!
+Do you have any favorite Raspberry Pi resources? Would you mind [sharing them](contributions.md)? I'm always looking for something else that makes creating with the Raspberry Pi easier or more interesting, and I'm sure lots of other people feel the same way.
 
-Happy Pi Day!
-
-![cake-92597_1280](https://grantwinney.com/content/images/2018/03/cake-92597_1280.jpg)
+Thanks, and enjoy!
