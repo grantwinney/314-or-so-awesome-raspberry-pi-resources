@@ -1,10 +1,12 @@
 # 314 (or so) Awesome Raspberry Pi Resources on Pi Day
 
-I got this crazy idea on Pi Day this year to see if I could come up with 314 awesome <people, companies, projects, books, etc> for learning about and building with the Raspberry Pi. I mean, any search on Google turns up 314 *million* results, so surely I could come up with the best of the best right? 
+I got this crazy idea on Pi Day this year to see if I could come up with 314 awesome <people, companies, projects, books, etc> for learning about and building with the Raspberry Pi. I mean, any search on Google turns up 314 *million* results, so surely I could come up with the best of the best right?
 
 I combed through my bookmarks, scoured links from old posts, and finally just started looking... everywhere. I discovered a lot of new people to follow, new material to read, and new projects to try out. I'll have no shortage of things to do and try out on the Pi now, and neither will you!
 
-This was originally a [blog post](https://grantwinney.com/314-awesome-raspberry-pi-resources/), but I figured it'd be more collaborative here. Incidentally, if you have anything to add or correct, feel free to [let me know](contributions.md). Thanks!
+This was originally a [blog post](https://grantwinney.com/314-awesome-raspberry-pi-resources/), but I figured it'd be more collaborative on here. If you have anything to add or correct, feel free to [let me know](contributions.md). Thanks!
+
+<img src="https://grantwinney.com/content/images/2018/03/raspberry-cake-276800.jpg" width=500>
 
 ## Getting Started
 
