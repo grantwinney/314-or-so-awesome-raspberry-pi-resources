@@ -4,7 +4,7 @@ I had this ambitious idea on Pi Day to see if I could come up with 314 awesome <
 
 I combed through my bookmarks, scoured links from old posts, and finally just started looking... everywhere. I discovered a lot of new people to follow, new material to read, and new projects to try out. I'll have no shortage of things to do and try out on the Pi now, and neither will you!
 
-This was originally a blog post, but I figured it'd be more collaborative on here. If you have anything to add or correct, [let me know](contributions.md)! Also, if you'd like to work through a few easy projects, check out [my other repo](https://github.com/grantwinney/314-or-so-awesome-raspberry-pi-resources).
+This was originally a blog post, but I figured it'd be more collaborative on here. If you have anything to add or correct, [let me know](contributions.md)! Also, if you'd like to work through a few easy projects, check out [my other repo](https://github.com/grantwinney/52-Weeks-of-Pi).
 
 <img src="https://grantwinney.com/content/images/2018/03/raspberry-cake-276800.jpg" width=500>
 
